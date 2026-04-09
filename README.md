@@ -20,6 +20,9 @@ The raw dataset required significant cleaning before visualization.
 * **Power Query:** For data transformation and filtering.
 * **Excel:** The source of the raw survey data.
 
+##  Dashboard Preview
+![Dashboard](Dashboard/Dashboard.png)
+
 ## How to View
 1. Download the `.pbix` file located in the `/Dashboard` folder.
 2. Open with Power BI Desktop.
